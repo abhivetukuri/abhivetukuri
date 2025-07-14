@@ -4,9 +4,10 @@
 
 ![Aspiring Software Builder](https://img.shields.io/badge/-Aspiring%20AI%20Engineer-blue?style=for-the-badge&logoColor=white)
 ![Cornell University](https://img.shields.io/badge/-Cornell%20University-B31B1B?style=for-the-badge&logoColor=white)
-![Software Engineer Intern at Susquehanna]
-![Incoming Software Engineer Intern at Nvidia]
-![Prev Software Engineer Intern at Palantir]
+![SWE Intern @ SIG](https://img.shields.io/badge/SWE%20Intern%20@%20SIG-0C234B?style=for-the-badge&logoColor=white) ♠️  
+![Incoming SWE Intern @ NVIDIA](https://img.shields.io/badge/Incoming%20SWE%20Intern%20@%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 🖥️  
+![Prev SWE Intern @ Palantir](https://img.shields.io/badge/Prev%20SWE%20Intern%20@%20Palantir-000000?style=for-the-badge&logo=palantir&logoColor=white) 🛡️
+
 </div>
 
 Welcome to my digital playground! I'm on a mission to push the boundaries of AI, distributed systems, and software in general! 
