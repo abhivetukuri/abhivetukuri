@@ -4,7 +4,9 @@
 
 ![Aspiring Software Builder](https://img.shields.io/badge/-Aspiring%20AI%20Engineer-blue?style=for-the-badge&logoColor=white)
 ![Cornell University](https://img.shields.io/badge/-Cornell%20University-B31B1B?style=for-the-badge&logoColor=white)
-
+![Software Engineer Intern at Susquehanna]
+![Incoming Software Engineer Intern at Nvidia]
+![Prev Software Engineer Intern at Palantir]
 </div>
 
 Welcome to my digital playground! I'm on a mission to push the boundaries of AI, distributed systems, and software in general! 
