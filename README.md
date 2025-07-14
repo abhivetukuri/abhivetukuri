@@ -4,7 +4,6 @@
 
 ![Aspiring Software Builder](https://img.shields.io/badge/-Aspiring%20AI%20Engineer-blue?style=for-the-badge&logoColor=white)
 ![Cornell University](https://img.shields.io/badge/-Cornell%20University-B31B1B?style=for-the-badge&logoColor=white)
-![Prev: Palantir Intern](https://img.shields.io/badge/-Software%20Dev%20Intern%20@%20Palantir-5A666C?style=for-the-badge&logoColor=white)
 
 </div>
 
